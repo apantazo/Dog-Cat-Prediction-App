@@ -1,6 +1,6 @@
 # Dog-Cat-Prediction-App
 
-<u><h3>data</h3></u>
+<h3><u>Data</u></h3>
 This folder contains 10,000 images of cat and dogs separated to training and test set (8000:2000).
 
 <u><h3>Static</h3></u>
