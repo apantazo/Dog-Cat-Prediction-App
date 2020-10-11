@@ -1,5 +1,7 @@
 # Dog-Cat-Prediction-App
 
+![](preview.gif)
+
 <h3><u>Data</u></h3>
 This folder contains 10,000 images of cat and dogs separated to training and test set (8000:2000).
 
@@ -15,4 +17,5 @@ Here is the convolutional neural network model for prediction of cat vs dog imag
 <u><h3>app.py</h3></u>
 
 This is a Flask script where the model has been loaded and interacts with front-end app.
+
 
