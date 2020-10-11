@@ -6,9 +6,14 @@ import numpy as np
 from keras.preprocessing import image
 
 
-model=load_model("mypet.h5")
+
+model=load_model("pet_prediction.h5")
 
 UPLOAD_FOLDER = 'static/img'
+if not os.path.exists(UPLOAD_FOLDER):
+    os.makedirs(UPLOAD_FOLDER)
+
+
 ALLOWED_EXTENSIONS = {'txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'}
 
 app = Flask(__name__)
