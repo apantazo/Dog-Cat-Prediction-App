@@ -1,5 +1,7 @@
 # Dog-Cat-Prediction-App
 
+<h3><u>Preview</u></h3>
+
 ![](preview.gif)
 
 <h3><u>Data</u></h3>
